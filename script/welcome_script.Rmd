@@ -8,7 +8,9 @@ output:
 ---
 # Welcome
 
-Welcome everyone to this R Course for the Department of Linguistics at the University of Manchester. There is a little bit of preparation work I'd like you to do in advance. Before the course itself I'd like you to watch the videos below and install R and RStudio Desktop. R is the programming language, and RStudio Desktop is the interface we use to interact with the language. It's important that you have working installations of R and RStudio Desktop on your computers before the course starts, so if you have any trouble getting those two things up and running please let me know in advance. You can contact me via [email](mailto:paul.stott-2@postgrad.manchester.ac.uk).
+Welcome everyone to this R Course for the Department of Linguistics at the University of Manchester. The course will be delivered by Paul Stott, based on material developed by Professor Andrew Stewart at the University of Manchester. 
+
+There is a little bit of preparation work to do in advance. Before the course itself I'd like you to watch the videos below from Andrew and install R and RStudio Desktop. R is the programming language, and RStudio Desktop is the interface we use to interact with the language. It's important that you have working installations of R and RStudio Desktop on your computers before the course starts, so if you have any trouble getting those two things up and running please let me know in advance. You can contact me via [email](mailto:paul.stott-2@postgrad.manchester.ac.uk).
 
 First off, have a look at these videos about the importance of Open Research with respect to research reptoducibility and transparency.
 
@@ -121,7 +123,7 @@ When you first instal R, you'll see it comes with only a small number of package
 
 Both days will be run via Zoom. Make sure you install the [Zoom client](https://zoom.us/download) beforehand.
 
-I'll circulate the Zoom details beforehand.
+Paul will circulate the Zoom details beforehand.
 
 ## License
 
